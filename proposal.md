@@ -7,7 +7,7 @@
 This program will launch an interactive game where you will take care of a virtual pet named "Timmy." This is relevant to media and digital arts as I can make my art interactive in a fun way.
 
 ## Features
-- Food system
+- Hunger system
 	- Timmy will have a hunger bar that will deplete as time goes on. If hunger reaches 0, Timmy gets angry and the player loses. 
 - Feature 2
 	- Short explaination of how it will be executed.
